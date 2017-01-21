@@ -1,0 +1,5 @@
+.logo { display: none; }
+h2 { font-size: 1.2em !important; clear: both; }
+.markdown ul { padding: 0 2.4em; }
+.markdown li { list-style-position: outside !important; }
+a[href$=".pdf"] { float:right; }

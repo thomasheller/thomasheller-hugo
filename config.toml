@@ -1,0 +1,29 @@
+baseurl = "https://thomasheller.github.io/"
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Thomas Heller"
+title = "Thomas Heller | Software Developer"
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+blog = "blog/:slug/"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Thomas Heller | Software Developer"
+logofile = "img/logo.png"
+faviconfile = "img/logo.png"
+highlightjs = true
+lang = "en"
+github = "https://github.com/thomasheller"
+email = "thomas.m.heller@gmail.com"
+linkedin = "//www.linkedin.com/in/thomas-m-heller"
+twitter = "//twitter.com/hellerthomas"
+ExtraCssFiles = [ "/css/thme.css" ] # in `static/css'
