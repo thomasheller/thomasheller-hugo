@@ -33,11 +33,9 @@
                         {{ end }}
                     {{ end }}
 		    */}}
-                            <a href="/"><li>Home</li></a>
-                            <a href="/cv"><li>Resume/CV</li></a>
-                            <a href="/input"><li>Input</li></a>
-                            <a href="/about-me"><li>About me</li></a>
-                            <a href="/contact"><li>Contact</li></a>
+                    {{ range .Site.Menus.main }}
+                            <a href="{{.URL}}"><li>{{ .Name }}</li></a>
+		    {{ end }}
                 </ul>
             </nav>
         </div>

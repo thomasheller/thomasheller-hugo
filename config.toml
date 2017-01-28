@@ -27,3 +27,25 @@ email = "thomas.m.heller@gmail.com"
 linkedin = "//www.linkedin.com/in/thomas-m-heller"
 twitter = "//twitter.com/hellerthomas"
 ExtraCssFiles = [ "/css/thme.css" ] # in `static/css'
+
+[[menu.main]]
+name = "Home"
+weight = 0
+URL = "/"
+[[menu.main]]
+name = "Resume/CV"
+weight = 1
+URL = "/cv/"
+[[menu.main]]
+name = "Input"
+weight = 2
+URL = "/input/"
+[[menu.main]]
+name = "About me"
+weight = 3
+URL = "/about-me/"
+[[menu.main]]
+name = "Contact"
+weight = 4
+URL = "/contact/"
+
