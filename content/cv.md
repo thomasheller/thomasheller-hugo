@@ -5,7 +5,7 @@ title = "Resume/CV"
 
 +++
 
-[German version (PDF)](/pdf/cv_deutsch_2017.pdf)
+[German version (PDF)](/pdf/Lebenslauf_Thomas_Heller.pdf)
 
 ## Technical Skills
 
