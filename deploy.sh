@@ -1,5 +1,11 @@
 #!/usr/bin/zsh
 
+# Deploy site to GitHub pages by commiting and pushing to the repository
+# See: https://gohugo.io/tutorials/github-pages-blog/
+#
+# Usage: `deploy.sh' deploys with default commit message (timestamp)
+#        `deploy.sh "foo bar"' deploys with custom commit message
+
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
