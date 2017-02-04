@@ -5,6 +5,6 @@ draft = false
 
 +++
 
-I'm a passionate software developer focusing on agile Java and mobile/web development.
+I'm a passionate software developer focusing on full-stack Web and Android development.
 
 I also love yoga, meditation, vedanta philosophy and ayurveda.
