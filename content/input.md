@@ -41,5 +41,3 @@ Some inspiring books, talks, websites for software developers:
 
   - [Introduction to Event-Driven Databases Part 1](https://www.youtube.com/watch?v=sCLsPruvrpM), [Part 2](https://www.youtube.com/watch?v=qAN-ruIs3Qo), [Part 3] (https://www.youtube.com/watch?v=GWDY2fpdAI4) by Ramy Hardan
 
-TODO: Microservices
-
