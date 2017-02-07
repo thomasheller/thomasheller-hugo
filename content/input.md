@@ -37,3 +37,9 @@ Some inspiring books, talks, websites for software developers:
   - <strong>[Joel on Software](http://joelonsoftware.com)</strong> &#8211; Joel Spolsky&#8217;s blog on software engineering
   - <strong>[martinfowler.com](http://martinfowler.com/)</strong> &#8211; Martin Fowler&#8217;s website about OOP, continuous delivery etc.
 
+## Videos
+
+  - [Introduction to Event-Driven Databases Part 1](https://www.youtube.com/watch?v=sCLsPruvrpM), [Part 2](https://www.youtube.com/watch?v=qAN-ruIs3Qo), [Part 3] (https://www.youtube.com/watch?v=GWDY2fpdAI4) by Ramy Hardan
+
+TODO: Microservices
+
