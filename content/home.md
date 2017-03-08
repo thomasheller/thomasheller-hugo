@@ -7,4 +7,4 @@ draft = false
 
 I'm a passionate software developer focusing on full-stack Web and Android development.
 
-I also love yoga, meditation, vedanta philosophy and ayurveda.
+When I'm not coding, I love to do yoga, meditate and study Vedanta philosophy.
