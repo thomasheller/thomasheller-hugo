@@ -22,6 +22,7 @@ Some inspiring books, talks, websites for software developers:
 
 ## Talks
 
+  - [Concurrency is not Parallelism](https://www.youtube.com/watch?v=cN_DpYBzKso) by Rob Pike
   - [The Clean Code Talks &#8211; Inheritance, Polymorphism, &#038; Testing](https://www.youtube.com/watch?v=4F72VULWFvc&#038;list=PL693EFD059797C21E&#038;index=1) by Miško Hevery
   - [The Clean Code Talks &#8211; Global State and Singletons](https://www.youtube.com/watch?v=-FRm3VPhseI&#038;index=2&#038;list=PL693EFD059797C21E&#038;index=2) by Miško Hevery
   - [The Clean Code Talks &#8211; Don&#8217;t Look For Things!](https://www.youtube.com/watch?v=RlfLCWKxHJ0&#038;list=PL693EFD059797C21E&#038;index=3) by Miško Hevery
@@ -40,4 +41,3 @@ Some inspiring books, talks, websites for software developers:
 ## Videos
 
   - [Introduction to Event-Driven Databases Part 1](https://www.youtube.com/watch?v=sCLsPruvrpM), [Part 2](https://www.youtube.com/watch?v=qAN-ruIs3Qo), [Part 3] (https://www.youtube.com/watch?v=GWDY2fpdAI4) by Ramy Hardan
-
